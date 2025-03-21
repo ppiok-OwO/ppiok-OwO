@@ -1,11 +1,20 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1F1F,100:3A3A3A&height=100&section=header&text=Wisdom%20begins%20in%20wonder.&fontSize=30&fontColor=ffffff" />
-  
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ppiok-OwO&show_icons=true&theme=radical&card_width=450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppiok-OwO&theme=radical&card_width=450" />
 </div>
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ppiok-OwO&show_icons=true&theme=radical&card_width=450">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppiok-OwO&theme=radical&card_width=450">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
