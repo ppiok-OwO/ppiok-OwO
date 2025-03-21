@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Wisdom%20begins%20in%20wonder.&animation=twinkling&fontColor=ffffff&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1F1F,100:3A3A3A&height=120&section=header&text=Wisdom%20begins%20in%20wonder.&fontSize=35&fontColor=ffffff" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppiok-OwO&layout=compact&theme=radical" />
